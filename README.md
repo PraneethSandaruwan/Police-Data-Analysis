@@ -1,5 +1,5 @@
 # Police-Data-Analysis
-This is a Police data analysis project. all the insights findings have been clearly mentioned in the project.
+This is a Police data analysis project. all the insights findings have clearly mentioned in the project.
 
 # Data Collection
 Data were collected from kaggale website.
