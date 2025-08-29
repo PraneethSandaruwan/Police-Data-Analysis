@@ -1,8 +1,8 @@
 # Police-Data-Analysis
-This is a Police data analysis project. all the insights findings have clearly mentioned in the project.
+This is a Police data analysis project. All the analysis have clearly mentioned in the project.
 
 # Data Collection
-Data were collected from kaggle website.
+Dataset was collected from kaggle. We acknowledge their support in sharing this data. Their support made this analysis possible.
 
 # Skills
 Python, Pandas
